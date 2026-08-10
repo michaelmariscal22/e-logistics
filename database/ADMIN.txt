@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`, `fullname`, `address`, `email`, `password`, `contact`, `role`, `img`, `vehicle`, `active`) VALUES (NULL, 'ADMIN', 'Cebu City', 'admin@distant.com', '12341234', '09xxxxxxxxx', 'A', NULL, '-', 'Y');
